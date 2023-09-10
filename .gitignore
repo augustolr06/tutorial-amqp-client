@@ -1,0 +1,5 @@
+# arquivo de variaveis de ambiente
+.env
+
+# arquivos de configuração do editor de texto
+.vscode
